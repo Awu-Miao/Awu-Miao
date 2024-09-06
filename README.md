@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 👋 Hi, I’m @liangliang-programming
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 📫 My E-mail:690078281@qq.com
+- 🌱 I’m currently learning C Programming Language
+- 📫 My E-mail:mc_burn123@zohomail.com
 - 😄 Pronouns: he/him
 - 🎮 I like play *Minecraft*
 
