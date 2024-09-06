@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 📫 My E-mail:690078281@qq.com
 - 😄 Pronouns: he/him
-- 🎮 I like play Minecraft
+- 🎮 I like play *Minecraft*
 
 <!--
 **liangliang-programming/liangliang-programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
