@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m @liangliang-programming
+- 👋 Hi, I’m @burn123-programming
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C Programming Language
 - 📫 My E-mail:mc_burn123@zohomail.com
@@ -7,7 +7,7 @@
 - 🎮 I like play *Minecraft*
 
 <!--
-**liangliang-programming/liangliang-programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**burn123-programming/burn123-programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
